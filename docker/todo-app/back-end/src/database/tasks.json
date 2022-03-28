@@ -8,5 +8,10 @@
     "id": "da81663e-faad-4b17-8774-180e173410a1",
     "description": "Resolver o projeto Docker Todo List",
     "check": false
+  },
+  {
+    "id": "f8555c82-b8c0-4184-a34c-49c9fcadc3a3",
+    "description": "teste",
+    "check": false
   }
 ]
