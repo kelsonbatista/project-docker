@@ -1,0 +1,2 @@
+docker network create -d bridge local_network
+docker-compose up -d

@@ -1,7 +1,6 @@
-
 # ref https://dockerlabs.collabnix.com/beginners/dockerfile/ADD-command.html
 FROM node:14-alpine
 EXPOSE 3000
-ADD node_modules.tar.gz /repos/node
-COPY . /repos/node
+ADD node_modules.tar.gz .
+COPY . .
 ENTRYPOINT [ "npm", "start" ]
