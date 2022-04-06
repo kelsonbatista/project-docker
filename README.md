@@ -1,6 +1,6 @@
 # About the project / *Sobre o projeto*
 
-This are Docker practical exercises, including dockerfiles and docker compose.
+These are Docker practical exercises, including dockerfiles and docker compose.
 
 *Esses são exercícios práticos de Docker, incluindo dockerfiles e docker compose.*
 
